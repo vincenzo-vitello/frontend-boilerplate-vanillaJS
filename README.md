@@ -1,18 +1,18 @@
 # Frontend Boilerplate with Webpack, ESLint, and Prettier
 
 This repository provides a **boilerplate** for frontend application development using **HTML**, **CSS**, and **JavaScript**, with integrated **Webpack**, **ESLint**, **Prettier**.
+I created this boilerplate for personal use to speed up the project setup phase during my studies but feel free to use it if you like it!
 
-## Technologies Used
+## Technologies I Used
 
-- **Webpack**: A module bundler for your JavaScript, CSS, and assets, managing the build process.
-- **Babel**: A transpiler for JavaScript code, enabling you to use the latest ECMAScript features in environments that don't support them.
-- **ESLint**: A linter for JavaScript that helps maintain clean, consistent code following a coding style guide (in this case, the Airbnb JavaScript Style Guide).
-- **Prettier**: A code formatter to maintain consistent code formatting across the project.
-- **Git**: A version control system to track changes to your code.
+- **Webpack**
+- **Babel**
+- **ESLint**
+- **Prettier**
 
 ## Features
 
-- Basic Webpack configuration for bundling JavaScript, CSS, and images.
+- Basic **Webpack** configuration for bundling JavaScript, CSS, and images.
 - **ESLint** configured with the **Airbnb JavaScript Style Guide** to ensure clean, consistent code.
 - **Prettier** integrated for code formatting.
 - **Babel** to ensure JavaScript compatibility across older browsers.
