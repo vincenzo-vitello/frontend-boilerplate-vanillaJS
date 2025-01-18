@@ -62,16 +62,16 @@ To enable automatic formatting on save in your editor, make sure ESLint and Pret
 
 ### 7. Project Structure
 
-`/src
+` /src
   /assets        # Images and other static files
   /styles        # CSS files
   /scripts       # JavaScript files
   index.html     # Main HTML file
-/webpack.config.js # Webpack configuration
-/babel.config.js   # Babel configuration
-/eslint.json       # ESLint configuration
-/package.json      # Dependency and script management
-.gitignore         # Files to ignore in Git`
+  /webpack.config.js # Webpack configuration
+  /babel.config.js   # Babel configuration
+  /eslint.json       # ESLint configuration
+  /package.json      # Dependency and script management
+  .gitignore         # Files to ignore in Git`
 
 ### Contributing
 
