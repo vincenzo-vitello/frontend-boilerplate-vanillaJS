@@ -67,7 +67,7 @@ To enable automatic formatting on save in your editor, make sure ESLint and Pret
 /src
   /assets        # Images and other static files
   /styles        # CSS files
-	index.js       # JS Entry point
+  index.js       # JS Entry point
   index.html     # Main HTML file
 /webpack.config.js # Webpack configuration
 /babel.config.js   # Babel configuration
